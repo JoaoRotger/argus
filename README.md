@@ -1,6 +1,6 @@
 # Argus
 
-**Argus** is a modular C# library for system monitoring. Inspired by the mythological all-seeing figure, it collects real-time information on CPU usage, RAM, temperature, and other resources.
+**Argus** is a modular C# library for system monitoring. It collects real-time information on CPU usage, RAM, temperature, and other resources.
 
 ## Features
 
